@@ -2,15 +2,20 @@
     "posts": [
         {
             "id": 1,
-            "title": "Post 1"
+            "title": " School",
+            "body":"do homework from 10 to 11 PM",
+            "isCompleted": true
         },
         {
             "id": 2,
-            "title": "Post 2"
+            "title": "dance",
+            "body" : "Go to dancing class from 6 to 7Pm on Sunday",
+            "isCompleted": false
         },
         {
             "id": 3,
-            "title": "Post 3"
+            "title": "Post 3",
+            "isCompleted": false
         }
     ]
 }
