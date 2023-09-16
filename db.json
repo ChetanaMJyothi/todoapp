@@ -2,19 +2,20 @@
     "posts": [
         {
             "id": 1,
-            "title": " School",
-            "body":"do homework from 10 to 11 PM",
+            "title": "Meeting",
+            "body":"attend meeting from 10 to 11 PM",
             "isCompleted": true
         },
         {
             "id": 2,
-            "title": "dance",
+            "title": "Dance",
             "body" : "Go to dancing class from 6 to 7Pm on Sunday",
             "isCompleted": false
         },
         {
             "id": 3,
-            "title": "Post 3",
+            "title": "Prepare List",
+            "body": "Prepare list of canditates for next appraisel"
             "isCompleted": false
         }
     ]
